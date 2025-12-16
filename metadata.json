@@ -1,5 +1,5 @@
 {
-  "name": "AI Audio Transcriber",
-  "description": "An elegant SaaS-style application to transcribe any audio or video file using the power of Gemini. Upload a file, watch the live progress, and export the transcribed text with a single click.",
+  "name": "Transcreva Audio AI",
+  "description": "Um elegante aplicativo no estilo SaaS para transcrever qualquer arquivo de áudio ou vídeo com precisão e rapidez. Desenvolvido por Gemini.",
   "requestFramePermissions": []
 }
